@@ -45,7 +45,7 @@ const App = () => {
             onChange={(event) => setName(event.target.value)}
           />
   
-          <button type="submit">Add student</button>
+          <button type="submit">Add Teachers</button>
         </form>
   
         <h2>Teachers:</h2>
